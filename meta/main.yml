@@ -1,8 +1,8 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
-  
+  author: nikey176
+  description: db role for reddit application
+  company: otus
+
   role_name: db
   namespace: db
 
@@ -17,7 +17,8 @@ galaxy_info:
   # - GPL-3.0-only
   # - Apache-2.0
   # - CC-BY-4.0
-  license: license (GPL-2.0-or-later, MIT, etc)
+  #license: license (GPL-2.0-or-later, MIT, etc)
+  license: BSD-3-Clause
 
   min_ansible_version: 2.1
 
